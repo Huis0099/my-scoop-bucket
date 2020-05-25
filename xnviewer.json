@@ -1,0 +1,13 @@
+{
+    "version": "1.85",
+    "url": "https://download.xnview.com/XnConvert-win-x64.zip",
+    "description": "A fast, powerful and free cross-platform batch image converter",
+    "extract_dir": "XnConvert",
+    "homepage": "https://www.xnview.com/en/xnconvert/",
+    "shortcuts": [
+        [
+            "xnconvert.exe",
+            "XnConverter"
+        ]
+    ]
+}
