@@ -1,0 +1,20 @@
+{
+    "version": "2.0.0b4",
+    "description": "A pretty dencent searching tool for pixiv",
+    "honepage": "https://github.com/txperl/PixivBiu",
+    "url": "https://doslooping-my.sharepoint.cn/personal/t_doslooping_partner_onmschina_cn/_layouts/15/download.aspx?SourceUrl=/personal/t_doslooping_partner_onmschina_cn/Documents/lib-share/PixivBiu/PixivBiu_$version_win.zip",
+    "hash": "7c4007aec637531084021e99697ea09eb1381e503ee13fc9da1a475c48f99085",
+    "bin": [
+        [
+            "PixivBiu.exe",
+            "pixivbiu"
+        ]
+    ],
+    "shortcut": [
+        [
+            "PixivBiu.exe",
+            "PixivBiu"
+        ]
+    ],
+    "persist": "config.yml"
+}
